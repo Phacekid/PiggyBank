@@ -1,7 +1,7 @@
 ## PiggyBank Contract
 
 This is a PiggyBank contract using Hardhat, to compile and hardhat-waffle test.
-The contract was deployed on [Sepolia Testnet](https://sepolia.etherscan.io/address/0x5a247496f87c090665a7600320A25a3eA1bAFA56)
+The contract was deployed on [Sepolia Testnet](https://sepolia.etherscan.io/address/0xFdFadD6032F28cF87026A0a18D7cf8d889f0D45a)
 
 #### WALKTHROGH
 - After running `npm install`

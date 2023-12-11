@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 // author: Phace
-pragma solidity ^0.8.20;
+// PiggyBank Contract
+pragma solidity 0.8.0;
 
 contract PiggyBank {
     struct Owner {
